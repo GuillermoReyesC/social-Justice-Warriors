@@ -1,0 +1,1 @@
+export const funadoImages = require.context('../assets/funados', true );
